@@ -17,7 +17,7 @@ For object detection we will use yolov8s model from Ultralytics
 
 ![image](https://github.com/D2J3D/Airplanes_detection/assets/120342275/206b9ff0-01fb-4e88-baf6-435d742794e4)
 
-**Planed improvments**
+**Planned improvments**
 
 As the graphs shows we already have pretty nice results - the model converges and the training might me continued. 
 But there are steel techniques that could be implementec for achieving better results.
