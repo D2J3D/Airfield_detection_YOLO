@@ -19,7 +19,7 @@ For object detection we will use yolov8s model from Ultralytics
 
 **Planed improvments**
 
-As the graphs shows we already have prettyb nice results - the model converges and the training might me continued. 
+As the graphs shows we already have pretty nice results - the model converges and the training might me continued. 
 But there are steel techniques that could be implementec for achieving better results.
 - [ ] Use more data augmentation to avoid overfitting
 - [ ] Use trained model for more complex task of counting airplanes on the airfield (bird's eye view shots)
