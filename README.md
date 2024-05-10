@@ -9,6 +9,10 @@ Dataset contains 4140 images of airplanes. For training dataset we'll take 2898 
 
 For object detection we will use yolov8s model from Ultralytics
 
+**Detection example**
+
+![val_batch1_pred](https://github.com/D2J3D/Airplanes_detection/assets/120342275/fb45b81f-2971-4a44-b677-7b5f0acb45f7)
+
 **Confusion matrix**
 
 ![image](https://github.com/D2J3D/Airplanes_detection/assets/120342275/7c8fde84-9440-42de-a4ff-bcace03bb9c0)
